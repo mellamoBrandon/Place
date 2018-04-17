@@ -36,8 +36,6 @@ The contract is now deployed to the local blockchain server and may be interacte
 truffle console
 ```
 
-End with an example of getting some data out of the system or using it for a little demo
-
 
 ## Built With
 * [Truffle](https://github.com/trufflesuite/truffle) - Development environment and testing framework
