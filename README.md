@@ -15,8 +15,6 @@ For the most up to date installation: https://github.com/trufflesuite/truffle
 
 ### Compiling and Deploying
 
-Refer to truffle documentation for prerequisites to compile and deploy the contract.
-
 First, run Truffle's blockchain server seperately
 
 ```
